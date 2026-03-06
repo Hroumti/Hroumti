@@ -57,3 +57,9 @@ A specialized marketplace for premium 3D assets.
 - **Digital Development (Full Stack)**, ISTA Ait Melloul  
 - **Mathematics & Computer Science**, Ibn Zohr University  
 - **Baccalauréat Sciences Mathématiques (Option A)**
+
+---
+
+### Technical Activity.
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Hroumti&theme=tokyonight&hide_border=true)
