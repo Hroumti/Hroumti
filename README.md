@@ -60,6 +60,6 @@ A specialized marketplace for premium 3D assets.
 
 ---
 
-### Technical Activity.
+### Technical Activity
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Hroumti&theme=tokyonight&hide_border=true)
